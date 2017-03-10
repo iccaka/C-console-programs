@@ -1,4 +1,4 @@
-#define _GNU_SOURCE
+#define _GNU_SOURCE  // A lot of different header files. Don't look at them.
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -8,8 +8,6 @@
 #include <string.h>
 #include <ctype.h>
 #include <errno.h>
-#include "header.h"
-#include "header2.h"
 #define ROWS 3
 #define COLS 3
 

@@ -1,2 +1,2 @@
 # C-programming
-C programs.
+I am going to put some C programs here ;)

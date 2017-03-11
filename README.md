@@ -11,3 +11,4 @@ I am going to put some C programs here ;)
 7. Filling a matrix.
 8. Bubble sort(with function pointers).
 9. Linear search.
+10. DIY getline function

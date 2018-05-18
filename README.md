@@ -1,5 +1,5 @@
 # C-programming
-I am going to put some C programs here.
+I am going to put some C programs here ;)
 
 
 1. Tic-tac-toe game.

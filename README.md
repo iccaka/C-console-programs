@@ -1,4 +1,4 @@
-# C-programming
+# C-console-programs
 I am going to put some C programs here ;)
 
 
